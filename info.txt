@@ -1,0 +1,4 @@
+1.use python3.7 evn not conda evn or else speech recognition wont work
+2.since we are giving only google speech api we need to convert the audio into wav files 
+3.you can get lot of wav files on net 
+(https://www.youtube.com/watch?v=vuaolF-OSGY)
